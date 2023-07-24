@@ -8,7 +8,7 @@ I've been coding since 10 years. Started from Visual Basic 6, moved to .Net and 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [faizan76e@gmail.com](mailto:faizan76e@gmail.com)
-* 🚀  I'm currently working on [Deskbook.App](http://deskbook.app)
+* 🚀  I'm currently working on [Deskbook.App](https://deskbook.app)
 * 🧠  I'm learning VueJS
 * 🤝  I'm open to collaborating on Laravel, Livewire, AlpineJS
 
@@ -33,6 +33,7 @@ I've been coding since 10 years. Started from Visual Basic 6, moved to .Net and 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/WxwtB4W/livewire.png" width="36" height="36" alt="Livewire" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
