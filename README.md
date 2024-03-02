@@ -8,9 +8,9 @@ I've been coding since 10 years. Started from Visual Basic 6, moved to .Net and 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [faizan76e@gmail.com](mailto:faizan76e@gmail.com)
-* 🚀  I'm currently working on [Deskbook.App](https://deskbook.app)
+* 🚀  I'm currently working on [Deskbook.App](https://deskbook.app), [AgileLoop](https://agileloop.ai), [Manyface](https://manyface.io)
 * 🧠  I'm learning VueJS
-* 🤝  I'm open to collaborating on Laravel, Livewire, AlpineJS
+* 🤝  I'm open to collaborating on Laravel, Livewire, AlpineJS, Filament
 
 ### Skills
 
